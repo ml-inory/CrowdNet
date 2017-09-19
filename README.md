@@ -13,7 +13,8 @@
 train、inference和solver都在prototxt中，重新训练的话学习率需要自己调整
 
 ## 训练好的模型
-在model下的CrowdNet_50000.caffemodel是一个训练好的模型
+在model下的CrowdNet_50000.caffemodel是一个训练好的模型，
+predict下的图片是用此模型对sample中的origin.jpg预测的结果
 
 
 ## 有用的脚本
